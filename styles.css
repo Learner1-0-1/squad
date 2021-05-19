@@ -1,0 +1,112 @@
+body{
+    background-color:black;
+    position: absolute;
+    left:5px;
+    top: 5px;
+    right:5px;
+    bottom: 5px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    max-width: 100%;
+    max-height: fit-content;
+    padding: 10px;
+}
+
+p{
+    color: white;
+    font-family:Courier Prime;
+}
+
+.logo{
+    display: inline-block;
+    position:relative;
+    left: 50px;
+    top:10px;
+    font-family: EB Garamond;
+    font-weight: 100;
+    font-size: 30px;   
+}
+
+.btn{
+    position: relative;
+    left:1000px;
+    top:10px;
+    border-radius: 70px;
+    font-family: comfortaa;
+    color: #ffffff;
+    font-size: 20px;
+    background: #000000;
+    padding: 10px 20px 10px 20px;
+    border: solid #ffffff 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #858282;
+    text-decoration: none;
+}
+
+h1{
+    color: white;
+    font-family: EB Garamond;
+    font-size: 50px;
+   
+}
+h2{
+    color: white;
+    font-family: EB Garamond;  
+}
+
+
+.avengers{
+    text-decoration:none;
+    background-color: white;
+    color: black;
+    padding: 15px;
+}
+.avengers:hover{
+    background-color: rgb(201, 4, 4);
+}
+.first{
+    margin-top:100px;
+    margin-right:10%;
+    position:relative;
+    left: 50px;
+    padding-right: 40%;
+}
+.second{
+    margin-top:100px;
+    margin-right:10px;
+    position: relative;
+    text-align: left;
+    padding: 0px 10px 0px 25%;
+}
+.third{
+    margin-top:100px;
+    margin-right:10px;
+    position: relative;
+    text-align: left;
+    padding: 0px 10px 0px 25%;
+}
+.fourth{
+    margin-top:100px;
+    margin-right:10%;
+    position:relative;
+    left: 50px;
+    padding-right: 40%;
+}
+.galaxy{
+    width:700px;
+    height: 350px;
+}
+/*second page*/
+.pnf{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    line-height: 2;
+}
+.photo{
+ text-align: center;
+ padding-top: 50px;
+}
